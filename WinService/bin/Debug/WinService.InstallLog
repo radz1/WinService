@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe
+   logfile = C:\SampleProject\WinService\WinService\bin\Debug\WinService.InstallLog
+Installing service WinServiceRaj...
+Service WinServiceRaj has been successfully installed.
+Creating EventLog source WinServiceRaj in log Application...
+Committing assembly 'C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe
+   logfile = C:\SampleProject\WinService\WinService\bin\Debug\WinService.InstallLog
+Uninstalling assembly 'C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe
+   logfile = C:\SampleProject\WinService\WinService\bin\Debug\WinService.InstallLog
+Removing EventLog source WinServiceRaj.
+Service WinServiceRaj is being removed from the system...
+Service WinServiceRaj was successfully removed from the system.
+Installing assembly 'C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe
+   logfile = C:\SampleProject\WinService\WinService\bin\Debug\WinService.InstallLog
+Installing service WinService...
+Service WinService has been successfully installed.
+Creating EventLog source WinService in log Application...
+Committing assembly 'C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\SampleProject\WinService\WinService\bin\Debug\WinService.exe
+   logfile = C:\SampleProject\WinService\WinService\bin\Debug\WinService.InstallLog
